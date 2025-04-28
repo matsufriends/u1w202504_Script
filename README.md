@@ -27,6 +27,9 @@ MornLib群 ( https://github.com/orgs/matsufriends-org/repositories )
 - 加工や改変もぜんぜんOK、むしろ楽しくしてあげてください！
 - 使って何かあっても、責任は取れません！自己責任でお願いします！
 
+画像だけ欲しい方はGoogleDriveにもあります  
+[こちらからどうぞ](https://drive.google.com/drive/folders/1yvZvjsL7ZU_-q_DpA6Zgtpp0PFpn9Fuw?usp=drive_link)
+
 # その他
 後日、unity1week共有会にてモアイおこしの作り方を発表予定…  
 資料やURLがいずれこの辺りに追加されるはず(?)
