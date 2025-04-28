@@ -17,6 +17,11 @@ MornLib群 ( https://github.com/orgs/matsufriends-org/repositories )
 ※一切整理できてません😭
 
 # モアイ素材について
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/95e56868-39f7-4479-8899-dac6c0950bf0" width="400">
+  <img src="https://github.com/user-attachments/assets/3b9ec5f3-d08b-413b-9983-cd6a7be09ca4" width="400">
+</p>
+
 - モアイたちは自由に使ってOKです！
 - 連絡・報告・クレジット表記いりません、好きに遊んでください！
 - 加工や改変もぜんぜんOK、むしろ楽しくしてあげてください！
