@@ -8,17 +8,21 @@ unityroomで遊べます。
 
 https://unityroom.com/games/moaiokoshi
 
-# 使用アセット
+# 使用ライブラリ/アセット
 UniRx ( https://github.com/neuecc/UniRx )
 
 UniTask ( https://github.com/Cysharp/UniTask )
 
 VContainer ( https://github.com/hadashiA/VContainer )
 
-Arbor ( https://assetstore.unity.com/packages/tools/visual-scripting/arbor-3-fsm-bt-graph-editor-112239 )
-
 MornLib群 ( https://github.com/orgs/matsufriends-org/repositories )  
 ※一切整理できてません😭
+
+Arbor ( https://assetstore.unity.com/packages/tools/visual-scripting/arbor-3-fsm-bt-graph-editor-112239 )
+
+# プログラムについて
+プログラムのみ抜粋しているため、これ単体では動作しません。  
+質問/相談/マサカリなどあれば、いつでもどこでもお気軽に！
 
 # モアイ素材について
 <p align="center">
