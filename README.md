@@ -1,4 +1,8 @@
 # モアイおこし
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bedc38f2-d140-492d-a8f9-10c4e8c67331" width="400">
+</p>
+
 unityroomで遊べます。  
 何も考えたくないとき、ただただモアイを起こすだけ。
 
